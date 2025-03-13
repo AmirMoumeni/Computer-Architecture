@@ -1,0 +1,197 @@
+{D:/UT/Computer Architecture/CA/CA2/mux_5.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/mux_5.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux5
+
+Top level modules:
+	mux5
+
+} {} {}} {D:/UT/Computer Architecture/CA/CA2/test_bench.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/test_bench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module bench_test
+
+Top level modules:
+	bench_test
+
+} {} {}} {D:/UT/Computer Architecture/CA/CA2/mux2_tes.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/mux2_tes.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2_test
+
+Top level modules:
+	mux2_test
+
+} {} {}} {D:/UT/Computer Architecture/CA/CA2/adder_imm_test.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/adder_imm_test.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_imm_test
+
+Top level modules:
+	adder_imm_test
+
+} {} {}} {D:/UT/Computer Architecture/CA/CA2/adder_4_test.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/adder_4_test.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_4_test
+
+Top level modules:
+	adder_4_test
+
+} {} {}} {D:/UT/Computer Architecture/CA/CA2/ALU.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {D:/UT/Computer Architecture/CA/CA2/FlipFlop_test.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/FlipFlop_test.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FlipFlop_test
+
+Top level modules:
+	FlipFlop_test
+
+} {} {}} {D:/UT/Computer Architecture/CA/CA2/adder_4.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/adder_4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_4
+
+Top level modules:
+	adder_4
+
+} {} {}} {D:/UT/Computer Architecture/CA/CA2/DataMemory.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/DataMemory.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} {D:/UT/Computer Architecture/CA/CA2/extension_test.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/extension_test.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module extension_test
+
+Top level modules:
+	extension_test
+
+} {} {}} {D:/UT/Computer Architecture/CA/CA2/controller.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {D:/UT/Computer Architecture/CA/CA2/register_file.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/register_file.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} {D:/UT/Computer Architecture/CA/CA2/mux3_test.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/mux3_test.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux3_test
+
+Top level modules:
+	mux3_test
+
+} {} {}} {D:/UT/Computer Architecture/CA/CA2/mux5_test.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/mux5_test.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux5_test
+
+Top level modules:
+	mux5_test
+
+} {} {}} {D:/UT/Computer Architecture/CA/CA2/ABS.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/ABS.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ABS
+
+Top level modules:
+	ABS
+
+} {} {}} {D:/UT/Computer Architecture/CA/CA2/datapath.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/datapath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} {D:/UT/Computer Architecture/CA/CA2/risc.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/risc.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module risc_v
+
+Top level modules:
+	risc_v
+
+} {} {}} {D:/UT/Computer Architecture/CA/CA2/ALU_test.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/ALU_test.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_test
+
+Top level modules:
+	ALU_test
+
+} {} {}} {D:/UT/Computer Architecture/CA/CA2/adder_imm.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/adder_imm.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_imm
+
+Top level modules:
+	adder_imm
+
+} {} {}} {D:/UT/Computer Architecture/CA/CA2/mux_2.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/mux_2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} {D:/UT/Computer Architecture/CA/CA2/controller_test.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/controller_test.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller_test
+
+Top level modules:
+	controller_test
+
+} {} {}} {D:/UT/Computer Architecture/CA/CA2/mux_3.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/mux_3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux3
+
+Top level modules:
+	mux3
+
+} {} {}} {D:/UT/Computer Architecture/CA/CA2/inst_mem.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/inst_mem.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module InstructionMemory
+
+Top level modules:
+	InstructionMemory
+
+} {} {}} {D:/UT/Computer Architecture/CA/CA2/FlipFlop.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/FlipFlop.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FlipFlop
+
+Top level modules:
+	FlipFlop
+
+} {} {}} {D:/UT/Computer Architecture/CA/CA2/extension_unit.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/extension_unit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module extension_unit
+
+Top level modules:
+	extension_unit
+
+} {} {}} {D:/UT/Computer Architecture/CA/CA2/mux4_test.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/mux4_test.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux4_test
+
+Top level modules:
+	mux4_test
+
+} {} {}} {D:/UT/Computer Architecture/CA/CA2/mux_4.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/mux_4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux4
+
+Top level modules:
+	mux4
+
+} {} {}} {D:/UT/Computer Architecture/CA/CA2/ABS_test.v} {1 {vlog -work work -stats=none {D:/UT/Computer Architecture/CA/CA2/ABS_test.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ABS_test
+
+Top level modules:
+	ABS_test
+
+} {} {}}

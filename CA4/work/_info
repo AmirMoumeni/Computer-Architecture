@@ -1,0 +1,526 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Amir/Downloads/m
+vadder_4
+Z0 !s110 1736446968
+!i10b 1
+!s100 RF1X2V7]W=QlnS78Sl8a31
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IcP4OVhCZ8QdeMle45TOTH1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/UT/Computer Architecture/CA/CA4
+Z4 w1736438004
+8C:/Users/Amir/Downloads/CA4/adder_4.v
+FC:/Users/Amir/Downloads/CA4/adder_4.v
+!i122 30
+L0 2 6
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1736446968.000000
+!s107 C:/Users/Amir/Downloads/CA4/adder_4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Amir/Downloads/CA4/adder_4.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vadder_imm
+R0
+!i10b 1
+!s100 <KK^Pc?bPnA>L]1`Pm`gA0
+R1
+IzbDSA4eFlbegfNWMADJ5h1
+R2
+R3
+R4
+8C:/Users/Amir/Downloads/CA4/adder_imm.v
+FC:/Users/Amir/Downloads/CA4/adder_imm.v
+!i122 31
+L0 2 7
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Amir/Downloads/CA4/adder_imm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Amir/Downloads/CA4/adder_imm.v|
+!i113 1
+R7
+R8
+vALU
+Z9 !s110 1736446969
+!i10b 1
+!s100 o0z0k@ee9J:SiT8i:QcGO2
+R1
+IcloOo5SLYME^NGLU?Zn6Y0
+R2
+R3
+Z10 w1736438003
+8C:/Users/Amir/Downloads/CA4/ALU.v
+FC:/Users/Amir/Downloads/CA4/ALU.v
+!i122 39
+L0 2 30
+R5
+r1
+!s85 0
+31
+Z11 !s108 1736446969.000000
+!s107 C:/Users/Amir/Downloads/CA4/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Amir/Downloads/CA4/ALU.v|
+!i113 1
+R7
+R8
+n@a@l@u
+vbench_test
+R0
+!i10b 1
+!s100 c^B8]ZYdNNk<eJ<VHfMS;1
+R1
+INd?9IA<<]lXW><MMoY6^J1
+R2
+R3
+Z12 w1736438007
+8C:/Users/Amir/Downloads/CA4/test_bench.v
+FC:/Users/Amir/Downloads/CA4/test_bench.v
+!i122 25
+L0 2 10
+R5
+r1
+!s85 0
+31
+Z13 !s108 1736446967.000000
+!s107 C:/Users/Amir/Downloads/CA4/test_bench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Amir/Downloads/CA4/test_bench.v|
+!i113 1
+R7
+R8
+vcontroller
+R0
+!i10b 1
+!s100 OeCbkn@67CkmWafk]jfE>3
+R1
+Id7[>F9<g75W@N>Z4^h_E10
+R2
+R3
+R4
+8C:/Users/Amir/Downloads/CA4/controller.v
+FC:/Users/Amir/Downloads/CA4/controller.v
+!i122 32
+L0 2 126
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Amir/Downloads/CA4/controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Amir/Downloads/CA4/controller.v|
+!i113 1
+R7
+R8
+vDataMemory
+R9
+!i10b 1
+!s100 hI?eBg5^o0Z;dlVY0Ub7J3
+R1
+I8II9i2O=0YFmY[CI8gg?V0
+R2
+R3
+R10
+8C:/Users/Amir/Downloads/CA4/DataMemory.v
+FC:/Users/Amir/Downloads/CA4/DataMemory.v
+!i122 40
+L0 1 21
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Amir/Downloads/CA4/DataMemory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Amir/Downloads/CA4/DataMemory.v|
+!i113 1
+R7
+R8
+n@data@memory
+vdatapath
+R9
+!i10b 1
+!s100 z:LMU=gYQ;GHE3cR]LJ3k2
+R1
+ICcFHZRXOCQGc4SoG2_0h51
+R2
+R3
+R4
+8C:/Users/Amir/Downloads/CA4/datapath.v
+FC:/Users/Amir/Downloads/CA4/datapath.v
+!i122 33
+L0 2 106
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Amir/Downloads/CA4/datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Amir/Downloads/CA4/datapath.v|
+!i113 1
+R7
+R8
+vextension_unit
+R9
+!i10b 1
+!s100 TWLa`^_EQc:ag@6M26inX1
+R1
+IdP5nW?Vb;W]_ZjJJek]^[2
+R2
+R3
+R4
+8C:/Users/Amir/Downloads/CA4/extension_unit.v
+FC:/Users/Amir/Downloads/CA4/extension_unit.v
+!i122 34
+L0 2 18
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Amir/Downloads/CA4/extension_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Amir/Downloads/CA4/extension_unit.v|
+!i113 1
+R7
+R8
+vHazardUnit
+R9
+!i10b 1
+!s100 <z?o3OIGflW:H32<ZZTB82
+R1
+IX;RzVbEjaOUKS2ChWZ7I52
+R2
+R3
+R10
+8C:/Users/Amir/Downloads/CA4/HazardUnit.v
+FC:/Users/Amir/Downloads/CA4/HazardUnit.v
+!i122 41
+L0 1 49
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Amir/Downloads/CA4/HazardUnit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Amir/Downloads/CA4/HazardUnit.v|
+!i113 1
+R7
+R8
+n@hazard@unit
+vInstructionMemory
+R0
+!i10b 1
+!s100 ng3Jk@<6UG]h3N6Q=SAYH1
+R1
+I1fF<3Y6Nh@0EBX9a5T@2d2
+R2
+R3
+w1736438005
+8C:/Users/Amir/Downloads/CA4/inst_mem.v
+FC:/Users/Amir/Downloads/CA4/inst_mem.v
+!i122 29
+L0 1 13
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Amir/Downloads/CA4/inst_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Amir/Downloads/CA4/inst_mem.v|
+!i113 1
+R7
+R8
+n@instruction@memory
+vmux2
+R0
+!i10b 1
+!s100 73DAD15oj8mm5D2>HE?`[0
+R1
+I?6ANF]oezlK]2XWePCKUP1
+R2
+R3
+Z14 w1736438006
+8C:/Users/Amir/Downloads/CA4/mux_2.v
+FC:/Users/Amir/Downloads/CA4/mux_2.v
+!i122 26
+L0 2 13
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Amir/Downloads/CA4/mux_2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Amir/Downloads/CA4/mux_2.v|
+!i113 1
+R7
+R8
+vmux3
+R0
+!i10b 1
+!s100 eX6>K_TZ112Zf<oFa4KAm3
+R1
+ISJC?klSlz?_h6zgWQaF9I0
+R2
+R3
+R14
+8C:/Users/Amir/Downloads/CA4/mux_3.v
+FC:/Users/Amir/Downloads/CA4/mux_3.v
+!i122 27
+L0 2 14
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Amir/Downloads/CA4/mux_3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Amir/Downloads/CA4/mux_3.v|
+!i113 1
+R7
+R8
+vmux4
+R0
+!i10b 1
+!s100 fOP<Q>nRSl2bTh^dMlT]_1
+R1
+Ik4U[NDkXk3g8L>@zjWnUe2
+R2
+R3
+R14
+8C:/Users/Amir/Downloads/CA4/mux_4.v
+FC:/Users/Amir/Downloads/CA4/mux_4.v
+!i122 28
+Z15 L0 2 15
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Amir/Downloads/CA4/mux_4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Amir/Downloads/CA4/mux_4.v|
+!i113 1
+R7
+R8
+vmux5
+Z16 !s110 1736446967
+!i10b 1
+!s100 @TmBmj0UcSocMf>5K=]zl0
+R1
+I7^6Tj>elHJhlm?=L]16PF2
+R2
+R3
+R12
+8C:/Users/Amir/Downloads/CA4/mux_5.v
+FC:/Users/Amir/Downloads/CA4/mux_5.v
+!i122 22
+L0 2 16
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Amir/Downloads/CA4/mux_5.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Amir/Downloads/CA4/mux_5.v|
+!i113 1
+R7
+R8
+vpc_select
+R16
+!i10b 1
+!s100 7X3=IdQWlX_]3=QAa5LHX2
+R1
+IM84h_YnkQ3aJ^T?6:EnO52
+R2
+R3
+R12
+8C:/Users/Amir/Downloads/CA4/pc_select.v
+FC:/Users/Amir/Downloads/CA4/pc_select.v
+!i122 23
+R15
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Amir/Downloads/CA4/pc_select.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Amir/Downloads/CA4/pc_select.v|
+!i113 1
+R7
+R8
+vRegEX_MEM
+Z17 !s110 1736446970
+!i10b 1
+!s100 T3Oc;Ih^BMRR[[d5gFgm91
+R1
+I1?@O`A^9148KQHX??V^L@0
+R2
+R3
+R10
+8C:/Users/Amir/Downloads/CA4/RegEX_Mem.v
+FC:/Users/Amir/Downloads/CA4/RegEX_Mem.v
+!i122 42
+L0 1 44
+R5
+r1
+!s85 0
+31
+Z18 !s108 1736446970.000000
+!s107 C:/Users/Amir/Downloads/CA4/RegEX_Mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Amir/Downloads/CA4/RegEX_Mem.v|
+!i113 1
+R7
+R8
+n@reg@e@x_@m@e@m
+vregfile
+R16
+!i10b 1
+!s100 J^OFH[l<AX7cJe9Jh^]i_1
+R1
+IWhE_?iC7R0_azSNM5D`iB1
+R2
+R3
+R12
+8C:/Users/Amir/Downloads/CA4/register_file.v
+FC:/Users/Amir/Downloads/CA4/register_file.v
+!i122 24
+L0 2 23
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Amir/Downloads/CA4/register_file.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Amir/Downloads/CA4/register_file.v|
+!i113 1
+R7
+R8
+vRegID_EX
+R17
+!i10b 1
+!s100 aOEdm7JcY6CR4[eSTH3a=1
+R1
+IHMa4H7BjM@e51;_k6LA^V2
+R2
+R3
+R10
+8C:/Users/Amir/Downloads/CA4/RegID_EX.v
+FC:/Users/Amir/Downloads/CA4/RegID_EX.v
+!i122 43
+L0 1 62
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/Amir/Downloads/CA4/RegID_EX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Amir/Downloads/CA4/RegID_EX.v|
+!i113 1
+R7
+R8
+n@reg@i@d_@e@x
+vRegIF_ID
+R9
+!i10b 1
+!s100 m89]TeQQ9oJ`eN=VSM53m1
+R1
+IfDY1^5OfIS76243F^mjTo0
+R2
+R3
+R4
+8C:/Users/Amir/Downloads/CA4/RegIF_ID.v
+FC:/Users/Amir/Downloads/CA4/RegIF_ID.v
+!i122 35
+L0 1 22
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Amir/Downloads/CA4/RegIF_ID.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Amir/Downloads/CA4/RegIF_ID.v|
+!i113 1
+R7
+R8
+n@reg@i@f_@i@d
+vRegister
+R9
+!i10b 1
+!s100 I^_CC:GBJl3L:V:Z8bejM0
+R1
+IMKVMSV?J?8U1V6Jb[f?Gg0
+R2
+R3
+R4
+8C:/Users/Amir/Downloads/CA4/Register_32.v
+FC:/Users/Amir/Downloads/CA4/Register_32.v
+!i122 36
+L0 1 14
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Amir/Downloads/CA4/Register_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Amir/Downloads/CA4/Register_32.v|
+!i113 1
+R7
+R8
+n@register
+vRegMEM_WB
+R9
+!i10b 1
+!s100 8=hb;gUSGXF83U9n<0`503
+R1
+I52VLaz77cF;1YFAUlO[N52
+R2
+R3
+R4
+8C:/Users/Amir/Downloads/CA4/RegMEM_Wb.v
+FC:/Users/Amir/Downloads/CA4/RegMEM_Wb.v
+!i122 37
+L0 1 40
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Amir/Downloads/CA4/RegMEM_Wb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Amir/Downloads/CA4/RegMEM_Wb.v|
+!i113 1
+R7
+R8
+n@reg@m@e@m_@w@b
+vrisc_v
+R9
+!i10b 1
+!s100 zbT587zkYd4nDnoL0`E?E0
+R1
+I1Wd`8AY<Ed;aXO18I3PZW0
+R2
+R3
+R4
+8C:/Users/Amir/Downloads/CA4/Riscv.v
+FC:/Users/Amir/Downloads/CA4/Riscv.v
+!i122 38
+L0 2 17
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Amir/Downloads/CA4/Riscv.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Amir/Downloads/CA4/Riscv.v|
+!i113 1
+R7
+R8

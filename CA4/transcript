@@ -1,0 +1,38 @@
+vsim work.bench_test
+# vsim work.bench_test 
+# Start time: 12:00:40 on Jan 11,2025
+# Loading work.bench_test
+# Loading work.risc_v
+# Loading work.datapath
+# Loading work.mux3
+# Loading work.Register
+# Loading work.InstructionMemory
+# Loading work.adder_4
+# Loading work.RegIF_ID
+# Loading work.regfile
+# Loading work.extension_unit
+# Loading work.RegID_EX
+# Loading work.ALU
+# Loading work.mux2
+# Loading work.adder_imm
+# Loading work.pc_select
+# Loading work.RegEX_MEM
+# Loading work.DataMemory
+# Loading work.RegMEM_WB
+# Loading work.mux4
+# Loading work.HazardUnit
+# Loading work.controller
+# ** Warning: (vsim-3015) [PCDPC] - Port size (3) does not match connection size (1) for port 'branchD'. The port definition is at: C:/Users/Amir/Downloads/CA4/RegID_EX.v(2).
+#    Time: 0 ns  Iteration: 0  Instance: /bench_test/CUT/dp/D_to_E File: C:/Users/Amir/Downloads/CA4/datapath.v Line: 62
+# ** Warning: (vsim-3015) [PCDPC] - Port size (3) does not match connection size (1) for port 'branchE'. The port definition is at: C:/Users/Amir/Downloads/CA4/RegID_EX.v(5).
+#    Time: 0 ns  Iteration: 0  Instance: /bench_test/CUT/dp/D_to_E File: C:/Users/Amir/Downloads/CA4/datapath.v Line: 62
+add wave -position insertpoint  \
+sim:/bench_test/CUT/dp/register_file/registers
+run -all
+# ** Note: $stop    : C:/Users/Amir/Downloads/CA4/test_bench.v(9)
+#    Time: 50005 ns  Iteration: 0  Instance: /bench_test
+# Break in Module bench_test at C:/Users/Amir/Downloads/CA4/test_bench.v line 9
+# Error opening C:/Users/Amir/Downloads/CA4/test_bench.v
+# Path name 'C:/Users/Amir/Downloads/CA4/test_bench.v' doesn't exist.
+# End time: 12:08:30 on Jan 11,2025, Elapsed time: 0:07:50
+# Errors: 0, Warnings: 3
