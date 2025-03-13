@@ -1,0 +1,347 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/modelsim
+vALU
+Z0 !s110 1734458912
+!i10b 1
+!s100 _8ENz^d^8_dS;UO?bZWGc0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IzL@>cSM8bBHK[448Dl4Sd2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/LEGION/Desktop/ca3
+w1733919723
+8C:/Users/LEGION/Desktop/ca3/ALU.v
+FC:/Users/LEGION/Desktop/ca3/ALU.v
+!i122 42
+L0 1 18
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1734458912.000000
+!s107 C:/Users/LEGION/Desktop/ca3/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/LEGION/Desktop/ca3/ALU.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@a@l@u
+vALU_Controller
+R0
+!i10b 1
+!s100 f6c^`P4SY3fH_a3F7Xlho3
+R1
+IkV73H0ThhJ<QQjLn30n^Q2
+R2
+R3
+w1733914864
+8C:/Users/LEGION/Desktop/ca3/ALU_Controller.v
+FC:/Users/LEGION/Desktop/ca3/ALU_Controller.v
+!i122 43
+L0 1 25
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/LEGION/Desktop/ca3/ALU_Controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/LEGION/Desktop/ca3/ALU_Controller.v|
+!i113 1
+R6
+R7
+n@a@l@u_@controller
+vBranchController
+R0
+!i10b 1
+!s100 <IWYbhM69`1C<zm^F^43<2
+R1
+ITBU8?dcI5hdn;4dl7XSHc2
+R2
+R3
+w1733919657
+8C:/Users/LEGION/Desktop/ca3/BranchController.v
+FC:/Users/LEGION/Desktop/ca3/BranchController.v
+!i122 44
+L0 1 11
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/LEGION/Desktop/ca3/BranchController.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/LEGION/Desktop/ca3/BranchController.v|
+!i113 1
+R6
+R7
+n@branch@controller
+vImmExtension
+R0
+!i10b 1
+!s100 <3gjKOM<hR17TK0eSUSO^3
+R1
+IIn8]:ZJG[66NWZ:W2]S[X0
+R2
+R3
+w1733927656
+8C:/Users/LEGION/Desktop/ca3/ImmediateExtend.v
+FC:/Users/LEGION/Desktop/ca3/ImmediateExtend.v
+!i122 45
+L0 1 14
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/LEGION/Desktop/ca3/ImmediateExtend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/LEGION/Desktop/ca3/ImmediateExtend.v|
+!i113 1
+R6
+R7
+n@imm@extension
+vInstrDataMemory
+R0
+!i10b 1
+!s100 BOA^zcWRBVXC[WQ86m^2S1
+R1
+I?4`[Cb5^TaIW5[URnc2WC1
+R2
+R3
+w1733924286
+8C:/Users/LEGION/Desktop/ca3/InstrDataMemory.v
+FC:/Users/LEGION/Desktop/ca3/InstrDataMemory.v
+!i122 46
+L0 1 17
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/LEGION/Desktop/ca3/InstrDataMemory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/LEGION/Desktop/ca3/InstrDataMemory.v|
+!i113 1
+R6
+R7
+n@instr@data@memory
+vMainController
+R0
+!i10b 1
+!s100 IS2_gfQCc_MIDZEE?EI0a0
+R1
+I2[m8dabXB1F?L`3c;^HE73
+R2
+R3
+w1734004660
+8C:/Users/LEGION/Desktop/ca3/MainController.v
+FC:/Users/LEGION/Desktop/ca3/MainController.v
+!i122 47
+L0 1 126
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/LEGION/Desktop/ca3/MainController.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/LEGION/Desktop/ca3/MainController.v|
+!i113 1
+R6
+R7
+n@main@controller
+vMux2to1
+R0
+!i10b 1
+!s100 =;0;G2o;;@9daN8LYVT3l2
+R1
+IciIQTF8zk5;7O<j5:F:4X2
+R2
+R3
+w1733989727
+8C:/Users/LEGION/Desktop/ca3/Mux2to1.v
+FC:/Users/LEGION/Desktop/ca3/Mux2to1.v
+!i122 48
+L0 1 5
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/LEGION/Desktop/ca3/Mux2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/LEGION/Desktop/ca3/Mux2to1.v|
+!i113 1
+R6
+R7
+n@mux2to1
+vMux4to1
+R0
+!i10b 1
+!s100 QN1bGD6o15?dB@44X??@l2
+R1
+Ii12K4>Oel8W2?Nli3EDD72
+R2
+R3
+w1733990622
+8C:/Users/LEGION/Desktop/ca3/Mux4to1.v
+FC:/Users/LEGION/Desktop/ca3/Mux4to1.v
+!i122 49
+Z8 L0 1 13
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/LEGION/Desktop/ca3/Mux4to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/LEGION/Desktop/ca3/Mux4to1.v|
+!i113 1
+R6
+R7
+n@mux4to1
+vRegister
+R0
+!i10b 1
+!s100 _QCbki2U0HFY=cM=lPf4:1
+R1
+IdT[XBfFOlNY6oZ`DWbj=O3
+R2
+R3
+Z9 w1733911297
+8C:/Users/LEGION/Desktop/ca3/Register.v
+FC:/Users/LEGION/Desktop/ca3/Register.v
+!i122 50
+L0 1 10
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/LEGION/Desktop/ca3/Register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/LEGION/Desktop/ca3/Register.v|
+!i113 1
+R6
+R7
+n@register
+vRegisterFile
+R0
+!i10b 1
+!s100 fn]:n6D=oNRoiGA9XgYLh0
+R1
+IPG4D]BcD`bARgERToc@Xl1
+R2
+R3
+R9
+8C:/Users/LEGION/Desktop/ca3/Registerfile.v
+FC:/Users/LEGION/Desktop/ca3/Registerfile.v
+!i122 51
+L0 3 25
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/LEGION/Desktop/ca3/Registerfile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/LEGION/Desktop/ca3/Registerfile.v|
+!i113 1
+R6
+R7
+n@register@file
+vRISC_TB
+Z10 !s110 1734458913
+!i10b 1
+!s100 DJWzDKfOCfmhdjRc0JTL82
+R1
+I`zN>Rzb8Tea@3RdA<7Gk13
+R2
+R3
+w1733999555
+8C:/Users/LEGION/Desktop/ca3/TestBench.v
+FC:/Users/LEGION/Desktop/ca3/TestBench.v
+!i122 55
+R8
+R4
+r1
+!s85 0
+31
+Z11 !s108 1734458913.000000
+!s107 C:/Users/LEGION/Desktop/ca3/TestBench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/LEGION/Desktop/ca3/TestBench.v|
+!i113 1
+R6
+R7
+n@r@i@s@c_@t@b
+vRISC_V
+R10
+!i10b 1
+!s100 8KNZfH>dnG]B5UfGV0YzA2
+R1
+I`;R<mG;NN<<2bok3IIl8c2
+R2
+R3
+w1733992720
+8C:/Users/LEGION/Desktop/ca3/RISC_V.v
+FC:/Users/LEGION/Desktop/ca3/RISC_V.v
+!i122 52
+Z12 L0 1 16
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/LEGION/Desktop/ca3/RISC_V.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/LEGION/Desktop/ca3/RISC_V.v|
+!i113 1
+R6
+R7
+n@r@i@s@c_@v
+vRISC_V_Controller
+R10
+!i10b 1
+!s100 HzNe5?C2HOdme7dK]ZJe`0
+R1
+I5ZlC6QbUAC^gOoO3QWM<20
+R2
+R3
+w1734453498
+8C:/Users/LEGION/Desktop/ca3/RISC_V_Controller.v
+FC:/Users/LEGION/Desktop/ca3/RISC_V_Controller.v
+!i122 53
+R12
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/LEGION/Desktop/ca3/RISC_V_Controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/LEGION/Desktop/ca3/RISC_V_Controller.v|
+!i113 1
+R6
+R7
+n@r@i@s@c_@v_@controller
+vRISC_V_Datapath
+R10
+!i10b 1
+!s100 n3Nbd<KKa0o_EdSPTZ5QU2
+R1
+I]>f7G1XVNCj4F:cQGV]SB0
+R2
+R3
+w1733993167
+8C:/Users/LEGION/Desktop/ca3/RISC_v_data.v
+FC:/Users/LEGION/Desktop/ca3/RISC_v_data.v
+!i122 54
+L0 1 37
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/LEGION/Desktop/ca3/RISC_v_data.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/LEGION/Desktop/ca3/RISC_v_data.v|
+!i113 1
+R6
+R7
+n@r@i@s@c_@v_@datapath
